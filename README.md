@@ -27,3 +27,12 @@ It helps you **add**, **view**, and **remove** tasks — and even saves them to 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Simple-ToDo-CLI-App.git
+
+---
+
+Author
+
+Name – Mayur Santosh Ichake                  
+Email: mayurichake4@gmail.com                    
+
+   
