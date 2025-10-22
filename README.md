@@ -26,9 +26,9 @@ It helps you **add**, **view**, and **remove** tasks — and even saves them to 
 ## 🧩 How to Run the Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Simple-ToDo-CLI-App.git
-
----
+   [git clone https://github.com/Mayur-Ichake/Persistent-CLI-To-Do-App.git
+   
+----
 
 Author
 
