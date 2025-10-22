@@ -1,6 +1,6 @@
 # 📝 Simple To-Do List App (Console-Based)
-   # 📝 Elevate Lab Internship – Task 2  
 
+Elevate Lab Internship – Task 2  
 This project is developed as part of **Elevate Lab Internship (Task 2)**.  
 A beginner-friendly **Python To-Do List Application** you can run directly in the terminal.  
 It helps you **add**, **view**, and **remove** tasks — and even saves them to a file so your list stays safe after closing the app!
